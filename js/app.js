@@ -1,5 +1,5 @@
 /* app.js
- *
+ * This part of the APP is writen by the team at Udacity
  * This is our RSS feed reader application. It uses the Google
  * Feed Reader API to grab RSS feeds as JSON object we can make
  * use of. It also uses the Handlebars templating library and
